@@ -18,4 +18,3 @@ Step 5 – Calculate score to check whether the person is drowsy.
 
 ### For full documentation of the project please click [here](https://drive.google.com/file/d/1zEqCKIUm2xyBGDYBfAtDb1xK_beDlRNW/view?usp=sharing)
 
-### Also take a look at our research paper [here](https://drive.google.com/file/d/1EeS4H41K-AsTZsCMDowg-5iXmKhPEJti/view?usp=sharing)
